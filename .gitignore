@@ -2,6 +2,7 @@
 *~
 
 # build
+
 [Oo]bj/
 [Bb]in/
 packages/
@@ -27,7 +28,8 @@ autom4te.cache/
 tarballs/
 test-results/
 Thumbs.db
-
+.vs/
+.mfractor/
 # Mac bundle stuff
 *.dmg
 *.app
